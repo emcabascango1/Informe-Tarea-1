@@ -270,7 +270,7 @@ Un multímetro de 4 ½ dígitos mostrará hasta 19.999 recuentos de resolución
 
 ## 4.Video
 
-
+https://youtu.be/Q8J7prDVXBM
 
 ## 5. Conclusiones 
 

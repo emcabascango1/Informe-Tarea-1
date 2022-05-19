@@ -1,5 +1,13 @@
 # INFORME TAREA 1
 
+Nombre: Mateo Cabascango 
+
+numero de lista: 28
+
+NRC:7309
+
+Materia: Fundamentos de programación
+
 ## 1.  OBJETIVOS
 
 ### 1.1 Objetivo general
